@@ -1,0 +1,27 @@
+body {
+    background-color: pink;
+    text-align: center;
+}
+
+section {
+    text-align: center;
+    background-color: white;
+    margin: auto;
+    padding: 20px;
+    width: 700px;
+    border-radius: 4%;
+}
+
+#div2 {
+padding-top: 10px;
+padding-bottom: 20px;
+}
+
+footer {
+    margin: auto;
+    margin-top: 25px;
+    padding: 5px;
+    background-color: rgb(241, 162, 162);
+    width: 730px;
+    border-radius: 10px;
+}
